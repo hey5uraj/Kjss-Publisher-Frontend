@@ -7,6 +7,7 @@ export default function Home() {
       <BannerSection />
 
       <h1 className="text-3xl font-bold text-center">Welcome back developer</h1>
+      <p>hello</p>
     </>
   );
 }
